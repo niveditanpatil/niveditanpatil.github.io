@@ -1,25 +1,24 @@
-# AI-Augmented Databricks Workflows
+# Learning in Public: Data & AI
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://niveditanpatil.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A blog series exploring how AI coding assistants (Cursor, GitHub Copilot, etc.) can transform Databricks development workflows for data professionals.
+Documenting experiments with AI coding tools, data platforms, and whatever else I'm learning about data engineering, data science, machine learning, and analytics.
 
 **Live site:** [https://niveditanpatil.github.io](https://niveditanpatil.github.io)
 
 ## About This Blog
 
-This blog covers practical workflows, setup guides, and best practices for using AI coding assistants with Databricks. Topics include:
+A learning journal covering experiments, workflows, and lessons learned while working with modern data tools and AI coding assistants. Topics include:
 
-- Development environment setup
-- Remote cluster workflows with Databricks Connect
-- MLflow experiment tracking
-- Unity Catalog and data governance
-- Prompt engineering for data engineering tasks
-- CI/CD automation
-- Team collaboration patterns
+- AI coding assistants (Cursor, GitHub Copilot, etc.)
+- Data platform workflows and setup
+- MLflow and experiment tracking
+- Data engineering and analytics patterns
+- Prompt engineering for data tasks
+- What works (and what doesn't)
 
-**Target Audience:** Data engineers, data scientists, ML engineers, and analytics engineers working with Databricks.
+**Audience:** Data scientists, data engineers, ML engineers, analytics engineers, and anyone curious about modern data tools.
 
 ## Repository Structure
 
@@ -92,5 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub:** [@niveditanpatil](https://github.com/niveditanpatil)
-- **LinkedIn:** [your-profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [your-profile](https://linkedin.com/in/patilnivedita)
 - **Blog:** [niveditanpatil.github.io](https://niveditanpatil.github.io)

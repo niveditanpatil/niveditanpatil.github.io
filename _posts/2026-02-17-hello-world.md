@@ -1,18 +1,18 @@
 ---
-title: "Hello World: Learning AI-Augmented Databricks Development"
+title: "Hello World: Learning in Public"
 date: 2026-02-17 10:00:00 -0500
 categories: [meta]
-tags: [introduction, databricks, ai-coding-assistants]
-excerpt: "Starting a journey to explore how AI coding assistants like Cursor and GitHub Copilot work with Databricks. Learning in public and sharing what I discover along the way."
+tags: [introduction, learning-in-public, ai-coding-assistants, databricks]
+excerpt: "Starting a journey to explore AI coding tools, data platforms, and modern data workflows. Learning in public and sharing what I discover along the way."
 ---
 
-Hey there! Welcome to my blog where I'll be documenting my journey learning to use AI coding assistants with Databricks.
+Hi! Welcome to my blog where I'll be documenting my journey learning to use AI coding tools on modern data platforms like Databricks.
 
 ## Why I'm Starting This
 
-Like many of you, I've been hearing a lot about AI coding tools like Cursor and GitHub Copilot. They seem to be everywhere, and honestly, I've been curious—and a bit skeptical—about whether they actually help with real data work.
+People won't stop talking about AI coding tools like Cursor and GitHub Copilot. They seem to be everywhere, and honestly, I've been curious—and a bit skeptical—about whether they actually help with real data work.
 
-I work with Databricks regularly, and I noticed there's not much out there about using these AI tools specifically for data engineering and analytics. Most tutorials focus on web development or generic coding examples, which... isn't really what I do day-to-day.
+I'm a data scientist, and I noticed there's not much out there about using these AI tools specifically for data science, engineering, and analytics. Most tutorials focus on web development or generic coding examples, which... isn't really what I do day-to-day.
 
 So I figured: why not try it out myself and document what I learn? Maybe it'll be helpful for others who are in the same boat.
 
@@ -21,17 +21,17 @@ So I figured: why not try it out myself and document what I learn? Maybe it'll b
 Here are some things I want to figure out (and write about as I go):
 
 ### Getting Started
-- How to actually set up these tools to work with Databricks (this took me longer than I'd like to admit)
+- How to actually set up these tools on Databricks (this took me longer than I'd like to admit)
 - When these AI assistants are actually helpful vs. when they just get in the way
-- Building a simple Databricks pipeline and seeing where AI helps
-- Understanding how local development works with remote clusters
+- Building data pipelines and seeing where AI helps
+- Understanding local vs. remote development workflows
 
 ### Going Deeper
 - Can AI help debug Spark jobs? (I spend way too much time on this)
 - Using MLflow for tracking experiments with AI assistance
 - Working with Unity Catalog and schemas
 - Learning how to prompt these tools effectively for data tasks
-- Setting up CI/CD for Databricks projects
+- Setting up CI/CD for data projects
 
 ### Team & Production Stuff
 - What does code review look like when AI generates code?
@@ -47,7 +47,7 @@ If you work with data and Databricks—whether you're a data engineer, data scie
 
 I'm not an expert in AI coding assistants. I'm learning this stuff right alongside you. I'll share the wins and the frustrations, the time-savers and the time-wasters. Some things will probably work great, and some things will probably fall flat.
 
-I'm also still learning Databricks best practices, so if you see something that could be done better, please let me know! The comment section is open, and I'd love to hear about your experiences too.
+I'm also still learning data engineering and ML best practices, so if you see something that could be done better, please let me know! The comment section is open, and I'd love to hear about your experiences too.
 
 ## What's Next?
 
@@ -57,13 +57,13 @@ My next post will probably be about why I think data folks should at least try t
 
 If this sounds interesting, feel free to follow along:
 
-- ⭐ I'll be creating a companion code repository with examples soon: [databricks-ai-workflows](https://github.com/niveditanpatil/databricks-ai-workflows)
+- ⭐ I'll be sharing code examples on [GitHub](https://github.com/niveditanpatil) soon
 - 🔗 Connect on LinkedIn if you want: [your-profile-here](https://linkedin.com/in/yourprofile)
 - 💬 Seriously, leave comments! I'd love to know what you're trying or what questions you have
 
 ## Let's Learn Together
 
-I'm genuinely excited (and slightly nervous) about starting this journey. Whether these tools turn out to be game-changers or just overhyped toys, at least we'll find out together.
+Whether these tools turn out to be game-changers or just overhyped toys, at least we'll find out together.
 
 Thanks for being here!
 

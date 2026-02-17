@@ -6,11 +6,11 @@ permalink: /about/
 
 Hi, I'm Nivedita! 👋
 
-I'm a data professional who works with Databricks and recently got curious about whether AI coding assistants actually help with real data work. So I decided to try them out and document what I learn.
+I'm a data professional who's been curious about whether AI coding assistants and modern data tools actually help with real data work. So I decided to try them out and document what I learn.
 
 ## About This Blog
 
-This blog is basically my learning journal. I'm experimenting with tools like Cursor and GitHub Copilot to see how (or if) they help with Databricks development—building pipelines, debugging Spark jobs, working with MLflow, all that stuff.
+This blog is basically my learning journal. I'm experimenting with AI coding tools like Cursor and GitHub Copilot, trying out different data platforms like Databricks, and figuring out what actually helps with data science and engineering work—building pipelines, training models, debugging distributed jobs, all that stuff.
 
 I'm sharing:
 
@@ -21,7 +21,7 @@ I'm sharing:
 
 ## Why I'm Doing This
 
-I noticed there's not much practical content out there about using AI coding assistants specifically for data engineering and analytics work on Databricks. Most tutorials are geared toward web developers or generic software engineering.
+I noticed there's not much practical content out there about using AI coding assistants specifically for data science and engineering work. Most tutorials are geared toward web developers or generic software engineering.
 
 I figured if I'm learning this anyway, I might as well document it. Maybe it'll help someone else who's in the same boat.
 
@@ -34,12 +34,11 @@ I'm not an expert in AI coding tools—I'm literally learning as I go. I'll prob
 I'd love to hear about your experiences with these tools, or just connect:
 
 - **GitHub:** [github.com/niveditanpatil](https://github.com/niveditanpatil)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/patilnivedita)
 
 ## Resources
 
-- **Code Repository:** [databricks-ai-workflows](https://github.com/niveditanpatil/databricks-ai-workflows) - I'll be sharing code examples and things I try
+- **Code Repository:** [github.com/niveditanpatil](https://github.com/niveditanpatil) - I'll be sharing code examples and things I try
 - **Blog Posts:** Browse all posts by [category](/categories/) or [tag](/tags/)
 
 ---

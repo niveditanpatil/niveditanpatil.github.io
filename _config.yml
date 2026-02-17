@@ -1,10 +1,9 @@
 # Site Settings
-title: "AI-Augmented Databricks Workflows"
-description: "Modern workflows for data professionals using AI coding assistants with Databricks"
+title: "Learning in Public: Data & AI"
+description: "Documenting experiments with AI coding tools, data platforms, and whatever else I'm learning about data engineering, data science, machine learning, and analytics."
 author:
   name: "Nivedita Patil"
   bio: "Data professional exploring AI-augmented development workflows"
-  location: "Your Location"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
