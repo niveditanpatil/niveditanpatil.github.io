@@ -34,7 +34,7 @@ I'm not an expert in AI coding tools—I'm literally learning as I go. I'll prob
 I'd love to hear about your experiences with these tools, or just connect:
 
 - **GitHub:** [github.com/niveditanpatil](https://github.com/niveditanpatil)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/patilnivedita)
+- **LinkedIn:** [linkedin.com/in/patilnivedita](https://linkedin.com/in/patilnivedita)
 
 ## Resources
 

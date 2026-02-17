@@ -91,5 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub:** [@niveditanpatil](https://github.com/niveditanpatil)
-- **LinkedIn:** [your-profile](https://linkedin.com/in/patilnivedita)
+- **LinkedIn:** [patilnivedita](https://linkedin.com/in/patilnivedita)
 - **Blog:** [niveditanpatil.github.io](https://niveditanpatil.github.io)

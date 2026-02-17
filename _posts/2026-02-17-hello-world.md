@@ -58,7 +58,7 @@ My next post will probably be about why I think data folks should at least try t
 If this sounds interesting, feel free to follow along:
 
 - ⭐ I'll be sharing code examples on [GitHub](https://github.com/niveditanpatil) soon
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/yourprofile) if you want 
+- 🔗 Connect on [LinkedIn](https://linkedin.com/in/patilnivedita) if you want
 
 ## Let's Learn Together
 
@@ -68,4 +68,4 @@ Thanks for being here!
 
 ---
 
-*Questions? Want to share your own experiences with AI coding tools? Let's discuss on [LinkedIn](https://linkedin.com/in/yourprofile) or reach out on [GitHub](https://github.com/niveditanpatil)!*
+*Questions? Want to share your own experiences with AI coding tools? Let's discuss on [LinkedIn](https://linkedin.com/in/patilnivedita) or reach out on [GitHub](https://github.com/niveditanpatil)!*
