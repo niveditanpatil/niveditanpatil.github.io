@@ -1,9 +1,10 @@
 ---
 layout: home
 title: "Learning in Public: Data & AI"
+author_profile: true
 ---
 
-Hi! I'm documenting my journey learning to use AI coding tools, exploring data platforms, and figuring out what actually works in data science and engineering.
+Hey! I'm documenting my journey learning to use AI coding tools, exploring data platforms, and figuring out what actually works in data science and engineering.
 
 ## What This Is About
 
@@ -19,10 +20,6 @@ If you work with data and you're curious about these tools and techniques, maybe
 - 🤔 Whether this actually makes me more productive
 - 📝 What I'm learning about working with modern data platforms
 - 🎯 Prompt engineering patterns for data tasks
-
-## Latest Posts
-
-Check out my latest posts below, or browse by [categories](/categories/) and [tags](/tags/).
 
 ---
 
