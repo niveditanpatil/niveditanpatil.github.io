@@ -47,7 +47,7 @@ If you work with data and Databricks—whether you're a data engineer, data scie
 
 I'm not an expert in AI coding assistants. I'm learning this stuff right alongside you. I'll share the wins and the frustrations, the time-savers and the time-wasters. Some things will probably work great, and some things will probably fall flat.
 
-I'm also still learning data engineering and ML best practices, so if you see something that could be done better, please let me know! The comment section is open, and I'd love to hear about your experiences too.
+I'm also still learning data engineering and ML best practices, so if you see something that could be done better, please let me know! I'd love to hear about your experiences too.
 
 ## What's Next?
 
@@ -58,8 +58,7 @@ My next post will probably be about why I think data folks should at least try t
 If this sounds interesting, feel free to follow along:
 
 - ⭐ I'll be sharing code examples on [GitHub](https://github.com/niveditanpatil) soon
-- 🔗 Connect on LinkedIn if you want: [your-profile-here](https://linkedin.com/in/yourprofile)
-- 💬 Seriously, leave comments! I'd love to know what you're trying or what questions you have
+- 🔗 Connect on [LinkedIn](https://linkedin.com/in/yourprofile) if you want 
 
 ## Let's Learn Together
 
@@ -69,4 +68,4 @@ Thanks for being here!
 
 ---
 
-*Questions? Want to share your own experiences with AI coding tools? Drop a comment or reach out on [GitHub](https://github.com/niveditanpatil) or [LinkedIn](https://linkedin.com/in/yourprofile).*
+*Questions? Want to share your own experiences with AI coding tools? Let's discuss on [LinkedIn](https://linkedin.com/in/yourprofile) or reach out on [GitHub](https://github.com/niveditanpatil)!*

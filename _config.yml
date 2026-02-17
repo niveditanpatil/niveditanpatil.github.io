@@ -10,7 +10,7 @@ author:
       url: "https://github.com/niveditanpatil"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://linkedin.com/in/patilnivedita"
 
 # Build Settings
 remote_theme: mmistakes/minimal-mistakes
@@ -77,7 +77,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
       share: true
       related: true
       show_date: true
@@ -86,7 +85,3 @@ defaults:
 
 # Analytics (add later when you have traffic)
 # google_analytics: "UA-XXXXXXXXX-X"
-
-# Comments (can enable later)
-comments:
-  provider: false
