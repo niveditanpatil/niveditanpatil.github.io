@@ -15,20 +15,6 @@ author:
 # Build Settings
 remote_theme: mmistakes/minimal-mistakes
 
-# Masthead navigation
-masthead_title: "Learning in Public"
-
-# Main navigation links
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
-
 # Plugins
 plugins:
   - jekyll-feed
