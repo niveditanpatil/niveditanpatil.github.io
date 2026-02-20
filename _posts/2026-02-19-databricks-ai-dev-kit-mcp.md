@@ -57,32 +57,25 @@ I initially thought the AI Dev Kit might replace the Databricks extension and my
 
 Here's how they work together in your IDE:
 
-```mermaid
-graph TB
-    subgraph IDE["Your IDE (Cursor)"]
-        subgraph EXT["Databricks Extension"]
-            EXT1["• Run on cluster"]
-            EXT2["• Debug notebooks"]
-            EXT3["• Deploy bundles"]
-            EXT4["• Browse catalog"]
-            EXT5["<br/>YOU drive it"]
-        end
-        subgraph KIT["Databricks AI Dev Kit"]
-            KIT1["• AI runs SQL"]
-            KIT2["• AI manages jobs"]
-            KIT3["• AI knows patterns"]
-            KIT4["• AI creates tables"]
-            KIT5["<br/>AI assistant drives it"]
-        end
-    end
-    
-    EXT --> WS["Databricks Workspace"]
-    KIT --> WS
-    
-    style IDE fill:#2d333b,stroke:#444c56,stroke-width:2px,color:#adbac7
-    style EXT fill:#1c2128,stroke:#444c56,stroke-width:1px,color:#adbac7
-    style KIT fill:#1c2128,stroke:#444c56,stroke-width:1px,color:#adbac7
-    style WS fill:#316dca,stroke:#1f6feb,stroke-width:2px,color:#ffffff
+```
+┌─────────────────────────────────────────────────────┐
+│                   Your IDE (Cursor)                  │
+│                                                      │
+│  ┌──────────────────┐    ┌────────────────────────┐  │
+│  │   DB Extension    │    │    DB AI Dev Kit       │  │
+│  │                   │    │                        │  │
+│  │  • Run on cluster │    │  • AI runs SQL         │  │
+│  │  • Debug notebooks│    │  • AI manages jobs     │  │
+│  │  • Deploy bundles │    │  • AI knows patterns   │  │
+│  │  • Browse catalog │    │  • AI creates tables   │  │
+│  │                   │    │                        │  │
+│  │  YOU drive it     │    │  AI assistant drives it│  │
+│  └────────┬─────────┘    └───────────┬────────────┘  │
+│           │                          │               │
+│           └──────────┬───────────────┘               │
+│                      ▼                               │
+│           Databricks Workspace                       │
+└─────────────────────────────────────────────────────┘
 ```
 
 ## Prerequisites
