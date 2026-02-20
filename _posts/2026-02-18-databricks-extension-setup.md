@@ -10,6 +10,15 @@ I recently set up the Databricks extension in Cursor to work on data pipelines l
 
 > 📝 **Note**: This guide works for **VS Code, Cursor, and any VS Code-based IDE** (like VSCodium). The Databricks extension is compatible with all of them since they share the same extension API.
 
+## TL;DR: What I Liked and Didn't Like
+
+| ✅ What I Liked | ❌ What I Didn't Like |
+|----------------|---------------------|
+| **Local development with remote execution** - Write code in your IDE with full autocomplete/linting, but execute on powerful Databricks clusters | **Python version limitations** - Requires Python 3.12+ for Databricks Connect 15.x, which might conflict with other projects |
+| **OAuth makes auth easy** - No need to manage personal access tokens manually; just `databricks auth login` and you're done | **Cluster tagging is manual** - If you want to track usage by user for billing, you have to configure cluster tags yourself |
+| **Works across VS Code-based IDEs** - Same extension works in VS Code, Cursor, VSCodium, etc. | **Setup has many steps** - Between Python venv, cluster config, authentication, and workspace settings, there's a lot to get right |
+| **Cell-by-cell debugging** - Can debug notebooks locally without constantly switching to the web UI | **Error messages can be cryptic** - When things go wrong (especially with Databricks Connect), it's not always obvious why |
+
 ## Why Use the Extension?
 
 The Databricks extension lets you:
