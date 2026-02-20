@@ -28,6 +28,9 @@ plugins:
 paginate: 10
 paginate_path: /page:num/
 
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
 # SEO
 url: "https://niveditanpatil.github.io"
 baseurl: ""

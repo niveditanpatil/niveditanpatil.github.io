@@ -6,7 +6,7 @@ tags: [databricks, cursor, mcp, ai-dev-kit, model-context-protocol, coding-assis
 excerpt: "Learn how to install and use the Databricks AI Dev Kit MCP server to give your AI coding assistant direct access to Databricks operations - from executing SQL queries to deploying pipelines, all without leaving your IDE."
 ---
 
-After setting up the [Databricks extension in Cursor](/2026/02/18/databricks-extension-setup.html), I discovered the [Databricks AI Dev Kit](https://github.com/databricks-solutions/ai-dev-kit) which is basically a toolkit that gives AI coding assistants like Cursor direct access to Databricks operations through the Model Context Protocol (MCP).
+After setting up the [Databricks extension in Cursor](/2026/02/18/databricks-extension-setup/), I discovered the [Databricks AI Dev Kit](https://github.com/databricks-solutions/ai-dev-kit) which is basically a toolkit that gives AI coding assistants like Cursor direct access to Databricks operations through the Model Context Protocol (MCP).
 
 Here's what I learned setting it up, including what worked and what didn't.
 
@@ -88,7 +88,7 @@ You'll need:
 - **Databricks authentication** configured (OAuth or PAT in `~/.databrickscfg`)
 - **AI coding assistant** with MCP support (Cursor, Claude Desktop, etc.)
 
-If you already [set up the Databricks extension](/2026/02/18/databricks-extension-setup.html), you likely have most of these.
+If you already [set up the Databricks extension](/2026/02/18/databricks-extension-setup/), you likely have most of these.
 
 ## Installation
 
@@ -314,4 +314,4 @@ If you're experimenting with AI coding tools and Databricks, I'd love to hear wh
 - [Databricks AI Dev Kit GitHub Repository](https://github.com/databricks-solutions/ai-dev-kit)
 - [Model Context Protocol (MCP) Specification](https://modelcontextprotocol.io/)
 - [Databricks SDK for Python Documentation](https://databricks-sdk-py.readthedocs.io/)
-- [Previous post: Setting Up Databricks Extension in VS Code and Cursor](/2026/02/18/databricks-extension-setup.html)
+- [Previous post: Setting Up Databricks Extension in VS Code and Cursor](/2026/02/18/databricks-extension-setup/)
